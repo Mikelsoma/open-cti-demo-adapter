@@ -16,10 +16,10 @@
             </layoutItems>
         </layoutColumns>
         <layoutColumns>
-            <layoutItems>
+           <!-- <layoutItems>
                 <behavior>Edit</behavior>
                 <field>WhatId</field>
-            </layoutItems>
+            </layoutItems>-->
             <layoutItems>
                 <behavior>Edit</behavior>
                 <field>WhoId</field>
@@ -145,7 +145,7 @@
         <relatedList>RelatedActivityAttachmentList</relatedList>
     </relatedLists>
     <relatedObjects>WhoId</relatedObjects>
-    <relatedObjects>WhatId</relatedObjects>
+    <!--<relatedObjects>WhatId</relatedObjects>-->
     <showEmailCheckbox>false</showEmailCheckbox>
     <showRunAssignmentRulesCheckbox>false</showRunAssignmentRulesCheckbox>
     <showSubmitAndAttachButton>false</showSubmitAndAttachButton>
